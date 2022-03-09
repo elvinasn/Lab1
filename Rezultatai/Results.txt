@@ -1,0 +1,3 @@
+n = 9
+sula 3
+alus 2
